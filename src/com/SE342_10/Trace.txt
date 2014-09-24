@@ -1,0 +1,273 @@
+
+
+Run 1 (Deadlock)    args: 2 0 0 0
+================================
+Starting philosopher 1
+Starting philosopher 0
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for right fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 has right fork.
+Philosopher 0 has right fork.
+Philosopher 1 goes for left fork.
+Philosopher 0 goes for left fork.
+
+
+
+Run 2    args: -l 2 10 0 0
+================================
+Starting philosopher 0
+Starting philosopher 1
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 goes for left fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 has left fork.
+Philosopher 0 goes for right fork.
+Philosopher 0 has right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 has right fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 1 goes for left fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 has left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 0 has right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 1 goes for right fork.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 has right fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 1 releases left fork.
+Philosopher 0 has left fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 goes for right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 has right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 1 goes for left fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 has left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 1 goes for left fork.
+Philosopher 0 is full!
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 1 releases left fork.
+Philosopher 1 is full!
+
+Process finished with exit code 0
+
+
+Run 3     args: -l 2 2 0 0
+==================================
+Starting philosopher 0
+Starting philosopher 1
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 goes for left fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 has left fork.
+Philosopher 0 goes for right fork.
+Philosopher 0 has right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 0 thinks for 0 milliseconds.
+Philosopher 1 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 0 goes for left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 0 has left fork.
+Philosopher 1 releases left fork.
+Philosopher 0 goes for right fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 0 has right fork.
+Philosopher 1 goes for right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 0 releases left fork.
+Philosopher 0 is full!
+Philosopher 1 has right fork.
+Philosopher 1 goes for left fork.
+Philosopher 1 has left fork.
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 1 releases left fork.
+Philosopher 1 is full!
+
+Process finished with exit code 0
+
+
+Run 4     args: -l 4 1 0 0
+==============================
+Starting philosopher 0
+Starting philosopher 3
+Philosopher 0 thinks for 0 milliseconds.
+Starting philosopher 2
+Starting philosopher 1
+Philosopher 2 thinks for 0 milliseconds.
+Philosopher 0 goes for left fork.
+Philosopher 3 thinks for 0 milliseconds.
+Philosopher 0 has left fork.
+Philosopher 2 goes for left fork.
+Philosopher 1 thinks for 0 milliseconds.
+Philosopher 2 has left fork.
+Philosopher 0 goes for right fork.
+Philosopher 3 goes for right fork.
+Philosopher 0 has right fork.
+Philosopher 2 goes for right fork.
+Philosopher 1 goes for right fork.
+Philosopher 2 has right fork.
+Philosopher 0 eats for 0 milliseconds.
+Philosopher 2 eats for 0 milliseconds.
+Philosopher 0 releases right fork.
+Philosopher 2 releases right fork.
+Philosopher 3 has right fork.
+Philosopher 3 goes for left fork.
+Philosopher 0 releases left fork.
+Philosopher 3 has left fork.
+Philosopher 2 releases left fork.
+Philosopher 1 has right fork.
+Philosopher 2 is full!
+Philosopher 3 eats for 0 milliseconds.
+Philosopher 0 is full!
+Philosopher 3 releases right fork.
+Philosopher 1 goes for left fork.
+Philosopher 3 releases left fork.
+Philosopher 1 has left fork.
+Philosopher 3 is full!
+Philosopher 1 eats for 0 milliseconds.
+Philosopher 1 releases right fork.
+Philosopher 1 releases left fork.
+Philosopher 1 is full!
+
+Process finished with exit code 0
